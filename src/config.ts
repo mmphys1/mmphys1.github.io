@@ -6,7 +6,7 @@ export const SITE: Site = {
   desc: `Find out about me, about physics (the science of how the world works) and about life 
     (the non-science of how the world works).`,
   title: "Marwan",
-  ogImage: "/src/assets/images/laser-projection.jpg",
+  ogImage: "laser-projection-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 10,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
