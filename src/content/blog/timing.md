@@ -16,8 +16,8 @@ Timing is key.
 
 Let [Blue Valentine (2010)](https://www.imdb.com/title/tt1120985/) demonstrate. Here, a well-timed rainbow transforms a bus carrying Dean and Cindy (Ryan Gosling and Michelle Williams) into an allegory for their relationship:
 
-![rainbow-left](assets/images/timing/rainbow-left.png)
-![rainbow-right](assets/images/timing/rainbow-right.png)
+![rainbow-left](@assets/images/timing/rainbow-left.png)
+![rainbow-right](@assets/images/timing/rainbow-right.png)
 
 _What a shot._ How often can you follow one end of the rainbow to the other in one continuous shot? Serendipity in abundance. But not to sell Derek Cianfrance's direction short: it takes a lot of work and skill to execute this well. (I won't spoil the rest of the film.)
 
