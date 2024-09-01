@@ -4,7 +4,7 @@ author: Marwan
 pubDatetime: 2024-07-23T21:15:00Z
 slug: timing
 featured: false
-draft: true
+draft: false
 tags:
   - physics
   - ablation loading
