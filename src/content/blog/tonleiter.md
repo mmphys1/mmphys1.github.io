@@ -3,7 +3,7 @@ title: What can we learn from musical trains?
 author: Marwan
 pubDatetime: 2024-09-01T13:30:00Z
 slug: tonleiter
-featured: false
+featured: true
 draft: false
 tags:
   - Nature
