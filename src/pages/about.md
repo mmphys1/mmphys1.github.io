@@ -9,15 +9,11 @@ I’m Marwan. I originally thought to use this website to chart my journey as a 
 
 _[Where you from, what you on, and what’s your story?](https://youtu.be/GMAVR4AId1g?t=52)_
 
-I come from the UK, I [work in Germany](https://eleqtron.com/produkt/) as of 2024, and by the books I'm an ion trapper, specialising in ablation loading.
+I come from the UK, I [work in Germany](https://quantenoptik.physik.uni-siegen.de/en/experimental-quantum-optics/) as of 2026, and by the books I'm an ion trapper.
 
-_What's ablation loading about, then?_
+_What do you trap ions for?_
 
-Fire a high-energy, nanosecond laser pulse at some metal, and it becomes a gas, shooting off like a bullet. With the right setup, you can catch these 'bullets' with a ion trap. It's actually quite a deep topic.
-
-_What do you load ions for?_
-
-Each ion is a qubit. I’m happy to elaborate, but I think the “What is a qubit?” question has been Googled enough by Young Sheldon-types in quirky bow-ties before.
+Quantum computing. Each ion can be a qubit in a quantum computer. I’m happy to elaborate, but I think the “What is a qubit?” question has been Googled enough by Young Sheldon-types in quirky bow-ties before.
 
 _Can you tie a bow-tie?_
 
