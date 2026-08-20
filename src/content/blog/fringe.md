@@ -13,6 +13,10 @@ description: Something a bit different. Do you like stand-up comedy? The correct
 
 ---
 
+## Table of contents
+
+## What's this all about?
+
 Every August, Edinburgh doubles in size to host [the world's 3rd largest ticketed festival](https://www.edfringe.com/support-us/corporate-partnerships/become-a-sponsor). I needed a break, so I spent 2 days in the Edinburgh Fringe Festival. It encompasses all kinds of performing art, although comedy is the dominant type: there's literally 1000s of acts performing during the month. There isn't anything else like it. That's why I travelled from Germany to visit.
 
 So, I wrote about what I saw. 11 acts in 2 days, all comedy.[^1] Scotland has the purest ~~[water](https://www.youtube.com/watch?v=GceNsojnMf0)~~ comedy. Maybe you were thinking of seeing one of the acts below? Maybe you want an idea of what to watch. Whatever the case, I hope you draw something useful or interesting from my experience!
@@ -25,7 +29,7 @@ On the one hand, I'd like this to be useful to visitors to the Fringe; on the ot
 
 ### [Nish Kumar: Angry Humour From a Really Nice Guy (Work in Progress)](https://www.edfringe.com/tickets/whats-on/nish-kumar-angry-humour-from-a-really-nice-guy-work-in-progress)
 
-##### Monkey Barrel 3, 14:50
+*Monkey Barrel 3, 14:50*
 
 ⭐️⭐️
 
@@ -39,7 +43,7 @@ I'm knocking off a star because the person sat next to me had the most obnoxious
 
 ### [Aarian Mehrabani: How's Your Head?](https://www.edfringe.com/tickets/whats-on/aarian-mehrabani-how-s-your-head)
 
-##### Underbelly, George Square - Bluebell, 16:45
+*Underbelly, George Square - Bluebell, 16:45*
 
 ⭐️
 
@@ -59,7 +63,7 @@ Dear God, I hope he isn't his character.
 
 ### [Hasan Al-Habib: Stuck in the Middle (East) With You](https://www.edfringe.com/tickets/whats-on/hasan-al-habib-stuck-in-the-middle-east-with-you)
 
-##### Pleasance Courtyard - Upstairs, 17:30
+*Pleasance Courtyard - Upstairs, 17:30*
 
 ⭐️⭐️⭐️⭐️/🇮🇶🇮🇶🇮🇶🇮🇶🇮🇶
 
@@ -85,7 +89,7 @@ I'd keep a close eye on him, because next time, Al-Habib may well consistently b
 
 ### [Li Jin Hao: Falling From a Moon](https://www.edfringe.com/tickets/whats-on/li-jin-hao-falling-from-a-moon)
 
-##### Pleasance Courtyard - Above, 20:00
+*Pleasance Courtyard - Above, 20:00*
 
 🌕🌕🌕🌕
 
@@ -99,7 +103,7 @@ Likeable guy all-round!
 
 ### [Free Drinks Comedy](https://www.edfringe.com/tickets/whats-on/free-drinks-comedy)
 
-##### Hoots @ Nicolson Square - Nic 3, 21:55
+*Hoots @ Nicolson Square - Nic 3, 21:55*
 
 ⭐️⭐️⭐️
 
@@ -113,7 +117,7 @@ Unplanned visit. I was waiting in the venue's courtyard before my next show, sin
 
 ### [Emily Wilson: Escape From America](https://www.edfringe.com/tickets/whats-on/emily-wilson-escape-from-america)
 
-##### Pleasance Dome - Ace Dome, 22:50
+*Pleasance Dome - Ace Dome, 22:50*
 
 ⭐️⭐️⭐️⭐️⭐️
 
@@ -129,7 +133,7 @@ I really appreciate the care she showed to the front row audience member who. An
 
 ### [Rob Auton: JUPITER](https://www.edfringe.com/tickets/whats-on/rob-auton-jupiter)
 
-##### Assembly Roxy - Central, 13:00
+*Assembly Roxy - Central, 13:00*
 
 ⭐️⭐️⭐️⭐️
 
@@ -143,7 +147,7 @@ You have to let yourself into Rob's world. Otherwise it's hard to follow. There'
 
 ### [Eric Rushton: Could Well Be In](https://www.edfringe.com/tickets/whats-on/eric-rushton-could-well-be-in)
 
-##### Monkey Barrel 2, 14:55
+*Monkey Barrel 2, 14:55*
 
 ⭐️⭐️⭐️
 
@@ -155,7 +159,7 @@ Trade news cycles for 'experiences' like the submissive consumer you are. Experi
 
 ### [Olga Koch: Fat Tom Cruise](https://www.edfringe.com/tickets/whats-on/olga-koch-fat-tom-cruise)
 
-##### Pleasance Courtyard - Forth, 17:30
+*Pleasance Courtyard - Forth, 17:30*
 
 ⭐️⭐️⭐️⭐️
 
@@ -175,7 +179,7 @@ I liked that punchline a lot, ergo I bought the cap. But I couldn't remember the
 
 ### [Kristen Schaal: The Legend of Crystal Shell](https://www.edfringe.com/tickets/whats-on/kristen-schaal-the-legend-of-crystal-shell)
 
-##### Pleasance Courtyard - Forth, 19:00
+*Pleasance Courtyard - Forth, 19:00*
 
 ⭐️⭐️⭐️⭐️
 
@@ -189,7 +193,7 @@ Who is Crystal Shell? The titular centaur is a walking/galloping instruction man
 
 ### [Phil Ellis: Bath Mat](https://www.edfringe.com/tickets/whats-on/phil-ellis-bath-mat)
 
-##### Monkey Barrel 3, 21:55
+*Monkey Barrel 3, 21:55*
 
 ⭐️⭐️⭐️⭐️⭐️
 
